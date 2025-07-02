@@ -1,16 +1,17 @@
-## Hi there 👋
+## Jae-Myeong Jung
 
-<!--
-**jjm159/jjm159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Server programming is what I do.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+
+| Type      | Date               | Contents                             | Organization       |
+|-----------|--------------------|--------------------------------------|--------------------|
+| Company   | 2025.07 ~          | Backend Developer                    | PUBG               |
+| Internship| 2025.03 ~ 2025.06  | Backend Developer Intern             | PUBG               |
+| Bootcamp  | 2024.09 ~ 2025.01  | KRAFTON Jungle 7th                   | KRAFTON            |
+| Company   | 2023.08 ~ 2024.07  | Backend Developer                    | TBU                |
+| Company   | 2021.06 ~ 2023.07  | iOS Developer                        | TBU                |
+| Bootcamp  | 2020.07 ~ 2020.12  | Boostcamp Web-Mobile 5th            | NAVER connect      |
+| Education | 2013.03 ~ 2022.08  | School of AI Convergence & Global Commerce | Soongsil University |
