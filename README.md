@@ -1,6 +1,6 @@
 ## Jae-Myeong Jung
 
-I’m developing game server systems for a new project at PUBG STUDIOS.
+I’m developing game server systems for a new project at PUBG STUDIOS
 
 ---
 
