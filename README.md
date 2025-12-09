@@ -1,6 +1,6 @@
 ## Jae-Myeong Jung
 
-Server programming is what I do.
+I’m developing game server systems for a new project at PUBG STUDIOS.
 
 ---
 
@@ -8,8 +8,8 @@ Server programming is what I do.
 
 | Type       | Date               | Contents                                   | Organization             |
 |------------|--------------------|--------------------------------------------|--------------------------|
-| Company    | 2025.07 ~          | Backend Developer                          | PUBG                     |
-| Internship | 2025.03 ~ 2025.06  | Backend Developer Intern                   | PUBG                     |
+| Company    | 2025.07 ~          | Server Programmer                          | KRAFTON                  |
+| Internship | 2025.03 ~ 2025.06  | Server Programmer Intern                   | KRAFTON                  |
 | Bootcamp   | 2024.09 ~ 2025.01  | KRAFTON Jungle 7th                         | KRAFTON                  |
 | Company    | 2023.08 ~ 2024.07  | Backend Developer                          | TBU                      |
 | Company    | 2021.06 ~ 2023.07  | iOS Developer                              | TBU                      |
